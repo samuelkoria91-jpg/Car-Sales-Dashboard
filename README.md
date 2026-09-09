@@ -1,6 +1,6 @@
  ## Car Sales Dashboard
 
-![Car Dashboard](/Car%20Sales%20Bashboard.PNG)
+![Car Sale Dashboard](Car%20Sales%20Bashboard.PNG)
  ## Introduction
  When managing multi-country *sales operations*, tracking macro metrics alongside granular regional demand is key to driving growth. This dashboard transforms raw sales transactions into a strategic narrative letting stakeholders quickly evaluate high-level performance and drill directly into regional market dynamics
 
@@ -29,7 +29,7 @@ Developing this dashboard allowed me to deepen my technical expertise in several
 
 ## Dashboard Overview
 
-![Car Dashboard](/Car%20Sales%20Bashboard.PNG)
+![Car Dashboard](Car%20Sales%20Bashboard.PNG)
 **🌍 Regional Market Dominance**
 
 The automotive sales market across the analyzed region is heavily driven by South Africa, which serves as the primary revenue engine.
